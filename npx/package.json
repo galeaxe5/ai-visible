@@ -1,0 +1,39 @@
+{
+  "name": "ai-visible",
+  "version": "0.1.0",
+  "description": "Check if AI search (ChatGPT, Claude, Perplexity) can read your site: text in the HTML without JavaScript, title, description, robots.txt rules for AI search bots, sitemap and llms.txt.",
+  "bin": {
+    "ai-visible": "bin/ai-visible.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "type": "module",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "keywords": [
+    "seo",
+    "ai-search",
+    "chatgpt",
+    "claude",
+    "perplexity",
+    "robots-txt",
+    "llms-txt",
+    "spa",
+    "vite",
+    "react"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galeaxe5/ai-visible.git",
+    "directory": "npx"
+  },
+  "homepage": "https://github.com/galeaxe5/ai-visible",
+  "dependencies": {
+    "parse5": "8.1.1"
+  }
+}
