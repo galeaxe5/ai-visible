@@ -1,0 +1,9 @@
+{
+  "name": "ai-visible",
+  "displayName": "AI Visible",
+  "version": "0.1.0",
+  "description": "Make the sites your AI assistant builds readable by AI search (ChatGPT, Claude, Perplexity) and keep secret keys out of the front end.",
+  "author": { "name": "Pasportoo" },
+  "license": "MIT",
+  "keywords": ["seo", "ai-search", "robots-txt", "llms-txt", "react", "vite", "nextjs", "security"]
+}
