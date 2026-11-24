@@ -23,4 +23,8 @@ Copy-paste prompts for ChatGPT, Claude, Cursor or another AI assistant, by stack
 
 Free basic check: https://mcp.pasportoo.com/check
 
+From the same team, an MCP connector for ordering a human-reviewed website audit:
+
+[![Pasportoo Website Audit MCP connector](https://glama.ai/mcp/connectors/io.github.galeaxe5/pasportoo-website-audit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.galeaxe5/pasportoo-website-audit)
+
 The numbers in the rule come from our own scan, see METHOD.md.
